@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-size: 18px;
+}
+
+header {
+  background: #0eda41;
+  padding: 1em 0;
+}
+
+header a {
+  color: yellow;
+  text-decoration: none;
+}
+
+header a.logo {
+  font-weight: bold;
+}
+/*# sourceMappingURL=app.component.css.map */
